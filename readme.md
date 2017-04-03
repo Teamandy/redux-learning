@@ -1,0 +1,1 @@
+Next learning step - dive into redux
